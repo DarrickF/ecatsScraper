@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "egHqcLboYil0LEQiJjwGavHA9JqynuYCPkk6mPp7CTAPbuxvjtOKpI6AL0mSwk50FNIxuP2r4wddND4vczAfHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dfuentes.LRGVDC911\\source\\repos\\Scraper\\Scraper\\Scraper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\ini-parser\\2.5.2\\ini-parser.2.5.2.nupkg.sha512",
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\npgsql\\6.0.4\\npgsql.6.0.4.nupkg.sha512",
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\selenium.webdriver\\4.1.1\\selenium.webdriver.4.1.1.nupkg.sha512",
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\selenium.webdriver.chromedriver\\101.0.4951.4100\\selenium.webdriver.chromedriver.101.0.4951.4100.nupkg.sha512",
+    "C:\\Users\\dfuentes.LRGVDC911\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'ini-parser 2.5.2' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net6.0'. This package may not be fully compatible with your project.",
+      "libraryId": "ini-parser",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
